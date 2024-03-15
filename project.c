@@ -4,5 +4,5 @@ int main(){
 	printf("hello world");
 	printf("Bye bye");
 	printf("Abhishek Arora");
-	return;
+	return 0;
 }
